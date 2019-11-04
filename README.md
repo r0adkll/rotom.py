@@ -4,7 +4,7 @@ This script is meant to help bridge the gap between pokemontcg.io's API data and
 
 This is very much a **WIP** and will continue to be iterated and automated upon to better streamline the data pipeline.
 
-## Usuage
+## Usage
 
 ```shell script
 Usage:
