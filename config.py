@@ -5,7 +5,7 @@ from pathlib import Path
 
 def load_config():
     home = str(Path.home())
-    config_path = os.path.join(home, ".ditto/config.yml")
+    config_path = os.path.join(home, ".rotom/config.yml")
     if os.path.exists(config_path):
         stream = open(config_path, 'r')
         return yaml.load(stream)
