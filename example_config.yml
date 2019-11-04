@@ -1,0 +1,9 @@
+image_format: "https://images.pokemontcg.io/%s/%s.png"
+
+secure:
+  github_token: somepersonalaccesstoken
+
+git:
+  source: https://github.com/kirbyUK/ptcgo-data.git
+  staging: https://github.com/r0adkll/pokemon-tcg-data.git
+  dest: https://github.com/PokemonTCG/pokemon-tcg-data.git
