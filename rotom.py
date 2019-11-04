@@ -5,7 +5,7 @@ Usage:
     rotom.py transform <source> <destination> [-c FILE] [-o OUTPUT] [--diffOnly]
     rotom.py images <set_code>
     rotom.py (-h | --help)
-    ditty.py --version
+    rotom.py --version
     
 Options:
     --diffOnly    Output only the difference between files
